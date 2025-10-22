@@ -1,4 +1,4 @@
-# BTC-Checker-seed
+# BTC Checker seed
 Checking the security of BTC via seeds and private key and wallet type - testing 100M/Sec wallets against all BTC Address in the blockhian without LIMIT
 
 <img src="https://raw.githubusercontent.com/xkiller0/BTC-Checker-seed/refs/heads/main/btc-checker-seed.PNG">
